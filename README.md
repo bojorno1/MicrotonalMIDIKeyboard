@@ -11,4 +11,4 @@ Set up instructions will be available upon firmware completion.
 <h4>Keycap files available <a href="https://github.com/bojorno1/MicrotonalMIDIKeyboard/tree/main/keycaps">here...</a></h4>
 <h4>Firmware available <a href="https://github.com/bojorno1/MicrotonalMIDIKeyboard/tree/main/firmware">here...</a></h4>
 <img src="https://github.com/bojorno1/MicrotonalMIDIKeyboard/blob/main/images/midi%20keyboard%20front%20orthographic.png" alt="front orthographic of the board">
-<img src="https://github.com/bojorno1/MicrotonalMIDIKeyboard/blob/main/images/midi%20keyboard%20back%20orthographic.png" alt="back orthographic of the board>
+<img src="https://github.com/bojorno1/MicrotonalMIDIKeyboard/blob/main/images/midi%2520keyboard%2520back%2520orthographic.png" alt="back orthographic of the board>
